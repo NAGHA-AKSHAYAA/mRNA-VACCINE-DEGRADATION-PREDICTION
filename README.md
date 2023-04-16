@@ -7,7 +7,7 @@ The COVID-19 pandemic has created a global demand for effective vaccines to prot
 ![alt text](https://github.com/NAGHA-AKSHAYAA/mRNA-VACCINE-DEGRADATION-PREDICTION/blob/main/image.png?raw=true)
 
 ### Procedure to Implement the Code
-1. Load the train and test dataset into Base Model "Training.py" 
+1. Load the train and test dataset into Base Model "Training.py"
 2. Run the file and extract model weights for all the 5 models
 3. Load the models and the private_test_data into "Meta Model Prediction.py"
-5. Run the file to get the ouput
+4. Run the file to get the output
